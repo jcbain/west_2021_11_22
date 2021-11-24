@@ -10,6 +10,7 @@ const bigfoot = {
 
 
 
+
 for(const key in bigfoot) {
   console.log(key);
   console.log("bigfoot[key] ==>", bigfoot[key])
