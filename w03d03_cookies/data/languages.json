@@ -1,0 +1,30 @@
+{
+  "homeHeaders": {
+    "en": "Hello!",
+    "fr": "Bonjour",
+    "zh": "你好！",
+    "eo": "Saluton!",
+    "el": "Γειά σου!"
+  },
+  "homeBodies": {
+    "en": "Happy you stopped by! Welcome to the best website with all the functionalities!",
+    "fr": "Heureux que tu sois passé ! Bienvenue sur le meilleur site web avec toutes les fonctionnalités !",
+    "zh": "很高兴你停下来！欢迎来到具有所有功能的最佳网站！",
+    "eo": "Feliĉa, ke vi haltis! Bonvenon al la plej bona retejo kun ĉiuj funkcioj!",
+    "el": "Ευτυχώς που περάσατε! Καλώς ορίσατε στον καλύτερο ιστότοπο με όλες τις λειτουργίες!"
+  },
+  "aboutHeaders": {
+    "en": "The About Page!",
+    "fr": "La page À propos !",
+    "zh": "关于页面！",
+    "eo": "La Pri Paĝo",
+    "el": "Η Σελίδα Σχετικά!"
+  },
+  "aboutBodies": {
+    "en": "You are seeing the hardwork of a gremlin, dedicated to making this site available to you!",
+    "fr": "Vous voyez le travail acharné d'un gremlin, dévoué à mettre ce site à votre disposition !",
+    "zh": "您正在看到一个 gremlin 的辛勤工作，致力于让您可以使用这个网站！",
+    "eo": "Vi vidas malfacilan laboron de gremlino, dediĉita al disponigi ĉi tiun retejon por vi!",
+    "el": "Βλέπετε την σκληρή δουλειά ενός gremlin, αφιερωμένου να κάνει αυτόν τον ιστότοπο στη διάθεσή σας!"
+  }
+}
