@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+#channels {
+  border: 3px dotted palevioletred;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+
+#channels.celebration {
+  background-color: lightsalmon;
+  color: papayawhip;
+  border: 3px dashed goldenrod;
+}
