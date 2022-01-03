@@ -1,14 +1,14 @@
 # W05D01 - SQL Intro
 
 ## Objectives
-- [ ] Introduction to RDBMS
-- [ ] The Relational Data Model (Tables, Columns, Rows)
-- [ ] `SELECT` Statements
-- [ ] Filtering and ordering
-- [ ] Joining tables
-- [ ] Grouping records
-- [ ] Aggregation functions
-- [ ] `LIMIT` and `OFFSET`
+- [X] Introduction to RDBMS
+- [X] The Relational Data Model (Tables, Columns, Rows)
+- [X] `SELECT` Statements
+- [X] Filtering and ordering
+- [X] Joining tables
+- [X] Grouping records
+- [X] Aggregation functions
+- [X] `LIMIT` and `OFFSET`
 
 ## Databases
 
